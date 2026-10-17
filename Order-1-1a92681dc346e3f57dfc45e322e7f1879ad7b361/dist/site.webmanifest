@@ -1,0 +1,24 @@
+{
+  "name": "School of Informed Risk",
+  "short_name": "SOIR",
+  "description": "Университет длинной дистанции — сайт-визитка программы.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#0f3d32",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
